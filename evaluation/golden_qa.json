@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What was Apple's revenue in Q4 2023?",
+    "expected_answer": "Apple reported Q4 2023 revenue of $94.8 billion, up 1% year-over-year.",
+    "expected_company": "Apple"
+  },
+  {
+    "question": "How many vehicles did Tesla deliver in Q3 2023?",
+    "expected_answer": "Tesla delivered 484,507 vehicles in Q3 2023, exceeding expectations.",
+    "expected_company": "Tesla"
+  },
+  {
+    "question": "What was Microsoft Azure's growth rate?",
+    "expected_answer": "Microsoft Azure revenue grew 29% year-over-year in the latest quarter.",
+    "expected_company": "Microsoft"
+  },
+  {
+    "question": "What was Amazon Web Services' operating income?",
+    "expected_answer": "Amazon Web Services reported operating income of $7.0 billion, up 12% year-over-year.",
+    "expected_company": "Amazon"
+  },
+  {
+    "question": "How did the Federal Reserve affect tech stocks?",
+    "expected_answer": "The Federal Reserve raised interest rates by 0.25% to combat inflation, affecting tech stock valuations.",
+    "expected_company": "Market"
+  },
+  {
+    "question": "Which company reported $94.8 billion in revenue?",
+    "expected_answer": "Apple reported Q4 2023 revenue of $94.8 billion.",
+    "expected_company": "Apple"
+  },
+  {
+    "question": "What drove Apple's Q4 revenue?",
+    "expected_answer": "Apple's Q4 2023 revenue was driven by strong iPhone sales.",
+    "expected_company": "Apple"
+  },
+  {
+    "question": "What drove Microsoft Azure's growth?",
+    "expected_answer": "Microsoft Azure growth was driven by increased cloud adoption.",
+    "expected_company": "Microsoft"
+  },
+  {
+    "question": "Did Tesla exceed delivery expectations?",
+    "expected_answer": "Yes, Tesla delivered 484,507 vehicles in Q3 2023, exceeding expectations.",
+    "expected_company": "Tesla"
+  },
+  {
+    "question": "What was Amazon AWS operating income growth?",
+    "expected_answer": "AWS operating income was up 12% year-over-year at $7.0 billion.",
+    "expected_company": "Amazon"
+  }
+]

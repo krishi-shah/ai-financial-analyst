@@ -1,0 +1,17 @@
+beautifulsoup4>=4.12,<5
+requests>=2.31,<3
+newspaper3k>=0.2.8,<1
+PyMuPDF>=1.24,<2
+nltk>=3.8,<4
+sentence-transformers>=3.0,<4
+faiss-cpu>=1.8,<2
+openai>=1.30,<2
+transformers>=4.40,<5
+scikit-learn>=1.4,<2
+streamlit>=1.35,<2
+plotly>=5.22,<6
+pandas>=2.2,<3
+numpy>=2.0,<3
+torch>=2.2,<3
+python-dotenv>=1.0,<2
+pytest>=8.0,<9
